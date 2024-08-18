@@ -1,5 +1,5 @@
 
-#life is good Tandeka
+#life is good 
 
 import turtle
 t  = turtle.Turtle()
